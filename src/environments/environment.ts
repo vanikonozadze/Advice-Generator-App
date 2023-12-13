@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseApiUrl: 'https://api.adviceslip.com/advice',
+  // baseApiUrl: 'https://api.adviceslip.com/advice',
 };
 
 /*
