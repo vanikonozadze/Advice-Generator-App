@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/responsive-newsletter-signup-form-with-success-message-solution-SZ3VHZwD9B
-- Live Site URL: https://formnewsletter.netlify.app/
+- Solution URL: https://www.frontendmentor.io/solutions/advice-generator-app-lQZ7g-_e45
+- Live Site URL: https://advice-generator-app-tawny-one.vercel.app/
 
 ### Built with
 
