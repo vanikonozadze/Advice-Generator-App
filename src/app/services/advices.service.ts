@@ -7,11 +7,11 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root',
 })
 export class AdvicesService {
-  baseApiUrl: string = environment.baseApiUrl;
+  baseApi: string = environment.baseApiUrl;
 
   constructor(private http: HttpClient) {}
 
   getAdvice(): Observable<any> {
-    return this.http.get<any>(this.baseApiUrl);
+    return this.http.get<any>(this.baseApi);
   }
 }
